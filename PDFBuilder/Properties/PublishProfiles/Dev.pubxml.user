@@ -1,0 +1,163 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <_PublishTargetUrl>\\10.186.130.14\c$\_DevApps\webservices</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="bin/Microsoft.ReportViewer.Common.dll">
+      <publishTime>02/12/2014 01:17:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.DataVisualization.dll">
+      <publishTime>02/12/2014 01:17:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.ProcessingObjectModel.dll">
+      <publishTime>02/12/2014 01:17:38</publishTime>
+    </File>
+    <File Include="bin/Microsoft.ReportViewer.WebForms.dll">
+      <publishTime>02/12/2014 01:18:20</publishTime>
+    </File>
+    <File Include="bin/Newtonsoft.Json.dll">
+      <publishTime>03/20/2012 21:11:32</publishTime>
+    </File>
+    <File Include="bin/PDFBuilder.dll">
+      <publishTime>06/26/2020 16:06:06</publishTime>
+    </File>
+    <File Include="bin/PDFBuilder.XmlSerializers.dll">
+      <publishTime>06/26/2020 16:06:07</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.dll">
+      <publishTime>05/31/2012 13:59:20</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.Formatting.dll">
+      <publishTime>05/31/2012 13:57:56</publishTime>
+    </File>
+    <File Include="bin/System.Net.Http.WebRequest.dll">
+      <publishTime>05/31/2012 13:59:20</publishTime>
+    </File>
+    <File Include="bin/System.Web.Http.dll">
+      <publishTime>05/31/2012 13:58:00</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>05/19/2020 23:04:44</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ActiveState.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/CatalogItem.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/DataRetrievalPlan.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/DataSetDefinition.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/DataSource.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/DataSourceDefinition.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/DataSourcePrompt.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Event.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ExecutionSettingEnum.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ExpirationDefinition.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Extension.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ExtensionParameter.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ExtensionSettings.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ItemTypeEnum.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Job.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ModelCatalogItem.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ModelDrillthroughReport.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ModelItem.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ParameterValue.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ParameterValueOrFieldReference.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Policy.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Property.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Reference.map">
+      <publishTime>05/20/2020 14:28:15</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ReportHistorySnapshot.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ReportParameter.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Role.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Schedule.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/ScheduleDefinitionOrReference.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Subscription.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Task.datasource">
+      <publishTime>05/20/2020 14:28:16</publishTime>
+    </File>
+    <File Include="Web References/rs2005/Warning.datasource">
+      <publishTime>05/20/2020 14:28:17</publishTime>
+    </File>
+    <File Include="Web References/rsExec/DocumentMapNode1.datasource">
+      <publishTime>05/20/2020 14:28:51</publishTime>
+    </File>
+    <File Include="Web References/rsExec/ExecutionInfo1.datasource">
+      <publishTime>05/20/2020 14:28:51</publishTime>
+    </File>
+    <File Include="Web References/rsExec/ExecutionInfo21.datasource">
+      <publishTime>05/20/2020 14:28:51</publishTime>
+    </File>
+    <File Include="Web References/rsExec/Extension1.datasource">
+      <publishTime>05/20/2020 14:28:51</publishTime>
+    </File>
+    <File Include="Web References/rsExec/Warning1.datasource">
+      <publishTime>05/20/2020 14:28:51</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/26/2020 09:52:40</publishTime>
+    </File>
+    <File Include="WebService1.asmx">
+      <publishTime>05/19/2020 16:15:01</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
